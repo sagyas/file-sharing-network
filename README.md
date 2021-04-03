@@ -1,7 +1,7 @@
 # file-sharing-network
 
 Client and server, based on TCP for file sharing.  
-Implemented with Python 2.7 on Linux.
+Written in Python 2.7 on Linux.
 
 ## Installation  
 Clone the repo:  
