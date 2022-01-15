@@ -1,4 +1,4 @@
-# file-sharing-network
+# File Sharing Network in Python
 
 Client and server, based on TCP for file sharing.  
 Written in Python 2.7 on Linux.
